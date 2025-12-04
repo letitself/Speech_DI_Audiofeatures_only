@@ -1,5 +1,5 @@
 # Automated Detection of Personally Identifiable Information on Speech Data
-## Repository of Master's research paper
+## Master's thesis repository
 
 This repository contains the code for a research project on detecting personally identifiable information (PII) directly from speech audio, without relying on text transcripts. The project studies both binary (PII vs. non-PII) and multilabel setups, exploring how far one can go using only acoustic features for privacy-related classification on speech data.
 
