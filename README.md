@@ -29,3 +29,4 @@ This repository contains the code for a research project on detecting personally
 - Multilabel: Predict multiple PII categories per segment.
 
 
+Note: at the moment of 5.12.2025, the servers of Saga HPC with some of the files necessary for this work is still down. The repository will be updated with the rest of files once connection to HPC stabilise.
